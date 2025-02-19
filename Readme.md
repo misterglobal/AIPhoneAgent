@@ -1,4 +1,3 @@
-cat << 'EOF' > README.md
 # Voice Assistant API with Twilio, OpenAI, and ElevenLabs
 
 This project is a FastAPI application that integrates with Twilio for handling incoming voice calls, uses OpenAI's GPT-3.5-turbo for conversational AI, and leverages ElevenLabs for high-quality text-to-speech (TTS) voice synthesis. It creates dynamic, voice-driven interactions for callers, generating audio responses on the fly while maintaining conversation history.
